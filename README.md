@@ -1,1 +1,1 @@
-# golang_strings
+# Strings
